@@ -1,4 +1,4 @@
-﻿namespace Task3;
+﻿namespace Task_3;
 
 public class Printer
 {
