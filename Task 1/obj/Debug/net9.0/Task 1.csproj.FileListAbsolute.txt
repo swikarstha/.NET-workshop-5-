@@ -1,0 +1,4 @@
+/home/swikar/application dev/Workshop 5/Task 1/Task 1/obj/Debug/net9.0/Task 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/swikar/application dev/Workshop 5/Task 1/Task 1/obj/Debug/net9.0/Task 1.AssemblyInfoInputs.cache
+/home/swikar/application dev/Workshop 5/Task 1/Task 1/obj/Debug/net9.0/Task 1.AssemblyInfo.cs
+/home/swikar/application dev/Workshop 5/Task 1/Task 1/obj/Debug/net9.0/Task 1.csproj.CoreCompileInputs.cache
